@@ -1,0 +1,4 @@
+nav a:link, a:visited{color: blueviolet;}
+nav a:hover, a:active{color:darkred;}
+a{color: black; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ; font-size: 22px;text-decoration: none;padding-top: 10px;}
+header{position: fixed; width: 100%;}
